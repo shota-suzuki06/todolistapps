@@ -1,0 +1,78 @@
+
+@media (max-width: 700px) {
+    .form-wrapper {
+        margin-top: 1%;
+        margin-left: 1%;
+    }
+
+    #form {
+        width: 100%;
+    }
+
+    #task {
+        width: 81%;
+    }
+
+    .table-body {
+        width: 100%;
+        margin-left: 3%;
+    }
+
+    th {
+        width: 60%;
+    }
+    
+    td {
+        width: 60%;
+    }
+
+    #edit_btn {
+        width: 45%;
+    }
+
+    #delete_btn {
+        width: 45%;
+        margin-left: 10%;
+    }
+
+}
+
+@media (min-width: 701px) {
+    .form-wrapper {
+        margin-top: 1%;
+    }
+    
+    #form {
+        width: 50%;
+    }
+    
+    #task {
+        width: 85%;
+    }
+    
+    #form-btn {
+        margin-left: 1%;
+    }
+    
+    .table-body {
+        width: 60%;
+    }
+    
+    th {
+        width: 82%;
+    }
+    
+    td {
+        width: 82%;
+    }
+
+    #edit_btn {
+        width: 45%;
+    }
+
+    #delete_btn {
+        width: 45%;
+        margin-left: 10%;
+    }
+
+}
